@@ -1,15 +1,16 @@
-Healthcare Power BI DashboardThis repository contains a Power BI Dashboard (.pbix) file designed to provide interactive data visualizations and insights for healthcare analytics. The dashboard enables users to explore key healthcare trends, patient data, and operational metrics efficiently.
-Project OverviewPower BI is a powerful business intelligence tool that allows users to visualize healthcare data and derive meaningful insights. This dashboard is built using Power BI Desktop and includes various reports and interactive elements to analyze healthcare-related data effectively.
+#Healthcare Power BI Dashboard
+        This repository contains a Power BI Dashboard (.pbix) file designed to provide interactive data visualizations and insights for healthcare analytics. The dashboard enables users to explore key healthcare trends, patient data, and operational metrics efficiently.
+#Project Overview      Power BI is a powerful business intelligence tool that allows users to visualize healthcare data and derive meaningful insights. This dashboard is built using Power BI Desktop and includes various reports and interactive elements to analyze healthcare-related data effectively.
 Project DetailsFile Name: Papollo.pbix
-Platform: Microsoft Power BI
-Purpose: To provide interactive healthcare data visualization and analysis
-Included Components:
-Report: Visualization and dashboard layout
-DataModel: Healthcare dataset used for analysis
-Metadata: Details about fields, tables, and relationships
-Settings: Configuration settings for the report
-SecurityBindings: Security settings for data access
-Connections: Manages data sources and integrations
+#Platform: Microsoft Power BI
+#Purpose: To provide interactive healthcare data visualization and analysis
+I#ncluded Components:
+#Report: Visualization and dashboard layout
+#DataModel: Healthcare dataset used for analysis
+#Metadata: Details about fields, tables, and relationships
+#Settings: Configuration settings for the report
+#SecurityBindings: Security settings for data access
+#Connections: Manages data sources and integrations
 DiagramLayout: Defines the structure and relationships of data tables
 Features and InsightsThe Healthcare Power BI Dashboard includes the following features:
 Patient Demographics Analysis: Age, gender, and location-based insights
